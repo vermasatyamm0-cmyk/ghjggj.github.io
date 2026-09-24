@@ -1,0 +1,6 @@
+{
+  "name": "JK Coin",
+  "description": "Play General Knowledge quizzes, learn, and earn virtual JK Coins with lucky spins, wallet rewards, levels, and AI-powered question generator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
